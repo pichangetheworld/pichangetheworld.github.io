@@ -22,4 +22,6 @@ h1 {
 p {
   color: black;
   font-size: 16px;
+  margin: 8px;
+  padding: 8px;
 }
